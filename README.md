@@ -37,6 +37,8 @@
 > target - disease risk [1 - yes , 0 - No]
 > 
 
+<img src="https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/images/1.png" width='300' height='300' /> <img src="https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/images/2.png" width='300' height='300' />
+
 - The data shows that the more men patients are older,the more cholestrol they gain.But surprisingly the risk of heart disease is higher in the men who are thinner.The risk arises among skinny people of the age group between 50 and 60.
 
  - As far as women patients concerned the risk is high between thinner and middle age(35-55)ladies.Only about 60% of women around 60 may not complain about heart disease.The oldest women patients are likely to have serius heart problems.obesity is the same issue when they get older
