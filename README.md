@@ -35,6 +35,7 @@
 > thal - 3 – Normal, 6 – Fixed Defect, 7 – Reversible Defect
  
 > target - disease risk [1 - yes , 0 - No]
+> 
 
 - The data shows that the more men patients are older,the more cholestrol they gain.But surprisingly the risk of heart disease is higher in the men who are thinner.The risk arises among skinny people of the age group between 50 and 60.
 
