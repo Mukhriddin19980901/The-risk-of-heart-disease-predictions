@@ -1,6 +1,6 @@
 # Heart disease risk prediction model 
 
-<img src="https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/symptom.png" width='800' height='500' />
+<img src="https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/images/symptom.png" width='800' height='500' />
 
 
 ****Heart disease****, also known as **cardiovascular disease** (CVD), refers to a group of conditions that affect the heart and blood vessels. It is a leading cause of morbidity and mortality worldwide. Common types of heart disease include coronary artery disease (CAD), heart failure, arrhythmias, and heart valve problems.
@@ -78,4 +78,4 @@ Model Evaluation: scores  = ***78 % accuracy*** rate which is not bad
 <img src="https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/images/7.png" width='500' height='300' />
 
 Calculates and prints accuracy, F1 score, precision, and recall for the trained model using the testing data. The results are ~ 78.6% , ~ 78.5% ,77.1% , 84.3% respectively
-It's important to note that in the code provided, file_path is used to denote the path to the CSV file containing the dataset, it's  defined in the code snippet. Make sure to replace file_path with the actual path to your CSV file before running the [code](https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/heart_disease_prediction.ipynb).
+It's important to note that in the code provided, file_path is used to denote the path to the CSV file containing the dataset, it's  defined in the code snippet. Make sure to replace file_path with the actual path to your CSV file before running the [code](https://github.com/Mukhriddin19980901/the-risk-of-heart-disease-predictions/blob/main/heart_disease_predictions.ipynb).
